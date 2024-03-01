@@ -171,7 +171,17 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only&theme=swift#gh-light-mode-only"/>
+            <picture>
+              <source
+                srcset="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"
+                media="(prefers-color-scheme: dark)"
+              />
+              <source
+                srcset="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&bg_color=white&theme=swift#gh-light-mode-only"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              />
+              <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&bg_color=white&theme=swift)" />
+            </picture>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac-mann&langs_count=10&layout=donut&hide=html"/>
