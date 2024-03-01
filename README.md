@@ -10,7 +10,7 @@
 <br/>
 
 
-<table>
+<table>z
     <tr>
         <th>My Website</th>
     </tr>
@@ -171,10 +171,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&theme=codeSTACKr"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac-mann&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac-mann&langs_count=10&layout=donut&hide=html"/>
         </td>
     </tr>
 </table>
