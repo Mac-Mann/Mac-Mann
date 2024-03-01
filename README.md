@@ -31,42 +31,77 @@
 
 <table>
     <tr>
+        <td>Programming Languages</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frameworks</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/astro/astro-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gatsby/gatsby-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Backend Dev</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" width="40" height="40" /></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" width="40" height="40" /></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend Dev</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidjs/solidjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postcss/postcss-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
         <td>Cloud Engineering</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>CI/CD</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>SysOps</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Programming/Backend</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -78,40 +113,37 @@
         </td>
     </tr>
     <tr>
-        <td>Frontend Dev</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
         <td>IDEs</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original-wordmark.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Data Visualization</td>
+        <td>
+            <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/google-data-studio.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>Others/Misc</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
