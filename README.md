@@ -171,7 +171,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&theme=codeSTACKr"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=mac-mann&count_private=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only&theme=swift#gh-light-mode-only"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac-mann&langs_count=10&layout=donut&hide=html"/>
