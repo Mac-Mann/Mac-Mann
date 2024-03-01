@@ -10,7 +10,7 @@
 <br/>
 
 
-<table>z
+<table>
     <tr>
         <th>My Website</th>
     </tr>
