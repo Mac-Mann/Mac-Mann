@@ -7,22 +7,6 @@
 - 💬 Ask me about __Cloud Engineering (GCP), Docker, Software Dev/Eng, Anything BI/Data/Analytics Engineer related...__
 - ⚡ Fun fact: I am the second oldest of 5 brothers, but am the shortest one 😑.
 
-<br/>
-
-
-<table>
-    <tr>
-        <th>My Website</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://macgoldman.dev/">🌐</a>
-        </td>
-    </tr>
-</table>
-
-
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/macgoldman/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -149,8 +133,6 @@
 </table>
 
 
-<br/>
-
 ### Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/macgoldman"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
@@ -188,20 +170,3 @@
         </td>
     </tr>
 </table>
-
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
