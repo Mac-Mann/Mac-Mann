@@ -6,12 +6,11 @@
 - 🌱 I’m currently learning: __Astro, HTMX, AlpineJS & Surreal.js, SolidJS, Web Components & CWCO, StencilJS, and Tailwind CSS__
 - 💬 Ask me about __Cloud Engineering (GCP), Docker, Software Dev/Eng, Anything BI/Data/Analytics Engineer related...__
 - ⚡ Fun fact: I am the second oldest of 5 brothers, but am the shortest one 😑.
+- 😂 Here is a random joke that'll make you laugh:
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
-### Toolset
-
+## My Skills
 <table>
     <tr>
         <td>Programming Languages</td>
@@ -131,18 +130,7 @@
     </tr>
 </table>
 
-### Connect:
-
-<a href="https://www.linkedin.com/in/macgoldman/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/macgoldman"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
-### My GitHub Stats
+## My GitHub Stats
 
 <table>
     <tr>
@@ -172,3 +160,9 @@
         </td>
     </tr>
 </table>
+
+## Let's Connect!
+<a href="https://www.linkedin.com/in/macgoldman/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
+## Support my Work
+<a href="https://www.buymeacoffee.com/macgoldman"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
