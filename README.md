@@ -7,9 +7,8 @@
 - 💬 Ask me about __Cloud Engineering (GCP), Docker, Software Dev/Eng, Anything BI/Data/Analytics Engineer related...__
 - ⚡ Fun fact: I am the second oldest of 5 brothers, but am the shortest one 😑.
 
-### Contact me:
-
-<a href="https://www.linkedin.com/in/macgoldman/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Toolset
 
@@ -132,6 +131,9 @@
     </tr>
 </table>
 
+### Connect:
+
+<a href="https://www.linkedin.com/in/macgoldman/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Support my Work
 <br/>
