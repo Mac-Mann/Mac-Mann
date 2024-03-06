@@ -1,4 +1,8 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mac, here's a bit about myself...
+![Profile Views](https://komarev.com/ghpvc/?username=mac-manne&base=1054&abbreviated=true)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=50&pause=1200&color=00CBFF&center=true&vCenter=true&random=true&width=1000&height=80&lines=Hello+there!++Welcome+to+my+profile.;I'm+Mac%2C+here's+a+bit+about+myself...)](https://git.io/typing-svg)
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 ### Software/Data Engineer
 
