@@ -7,7 +7,7 @@
 ### Software/Data Engineer
 
 - 🔭 I’m currently working on: __A new personal website built with Astro__
-- 🌱 I’m currently learning: __Astro, HTMX, AlpineJS & Surreal.js, SolidJS, Web Components & CWCO, StencilJS, and Tailwind CSS__
+- 🌱 I’m currently learning: __Astro, HTMX, AlpineJS & Surreal.js, DenoJS, Web Components/Lit/Shoelace, and Tailwind CSS__
 - 💬 Ask me about __Cloud Engineering (GCP), Docker, Software Dev/Eng, Anything BI/Data/Analytics Engineer related...__
 - ⚡ Fun fact: I am the second oldest of 5 brothers, but am the shortest one 😑.
 - 😂 Here is a random joke that'll make you laugh:
